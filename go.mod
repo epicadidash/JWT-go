@@ -1,4 +1,4 @@
-module example.com/go-jwt
+module github.com/epicadidash/go-jwt
 
 go 1.19
 
